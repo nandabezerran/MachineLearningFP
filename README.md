@@ -1,1 +1,1 @@
-# MachineLearningFP
+# Machine Learning Final Project
